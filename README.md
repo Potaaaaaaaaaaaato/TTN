@@ -1,5 +1,5 @@
 # TTN
-# Application iOS pour la Surveillance des Données LoRaWAN
+# Application iOS pour la surveillance des données LoRaWAN
 
 Cette application iOS en Swift permet d'afficher des données de température et d'humidité envoyées par un capteur LoRaWAN via The Things Network.
 
